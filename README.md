@@ -10,6 +10,8 @@ Magento merchants are advised to follow BEST PRACTICES to ensure the security of
 
 See more at: http://magento.com/security/news/important-security-update#sthash.ddvpTnn7.dpuf
 
+Download patches at: https://www.magentocommerce.com/download
+
 Extentions
 ----------
 

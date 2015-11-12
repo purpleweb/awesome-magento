@@ -20,3 +20,10 @@ http://codecanyon.net/item/slider-revolution-responsive-magento-extension/933289
 
 The fastest way to browse your Magento admin interface.
 https://github.com/astorm/PulsestormLauncher
+
+Search and replace
+------------------
+
+```
+find . -type f -exec grep -H 'text' {} \;
+```

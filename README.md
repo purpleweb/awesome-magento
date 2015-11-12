@@ -17,3 +17,6 @@ Extentions
 
 Slider Revolution for Magento
 http://codecanyon.net/item/slider-revolution-responsive-magento-extension/9332896
+
+The fastest way to browse your Magento admin interface.
+https://github.com/astorm/PulsestormLauncher

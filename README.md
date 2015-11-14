@@ -24,6 +24,6 @@ https://github.com/astorm/PulsestormLauncher
 Find in files
 -------------
 
-```
-find . -type f -exec grep -H 'text' {} \;
+```bash
+grep -rnw '.' -e "text"
 ```

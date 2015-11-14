@@ -27,3 +27,4 @@ Find in files
 ```bash
 grep -rnw . -e "text"
 ```
+[Read more](http://stackoverflow.com/questions/16956810/finding-all-files-containing-a-text-string-on-linux?answertab=votes#tab-top)

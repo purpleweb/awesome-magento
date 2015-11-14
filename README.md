@@ -25,5 +25,5 @@ Find in files
 -------------
 
 ```bash
-grep -rnw '.' -e "text"
+grep -rnw . -e "text"
 ```
